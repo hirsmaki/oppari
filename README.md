@@ -1,1 +1,1 @@
-# oppari
+Jani Hirsmäen insinööritutkinnon päättötyömateriaalien repo
