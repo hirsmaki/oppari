@@ -1,4 +1,4 @@
-Jani Hirsmäen insinööritutkinnon päättötyömateriaalien repo
+päättötyömateriaalien repo
 
 
 KANBAN
